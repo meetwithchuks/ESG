@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.esgbyboinigeria.com/sitemap.xml
